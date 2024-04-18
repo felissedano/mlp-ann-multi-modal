@@ -3,4 +3,5 @@ A Multi-layer perception ANN written in with CUDA CuPy GPU acceleration support.
 
 ## Dataset
 For the image data, I used the classic MNIST dataset which can be found [here](https://www.kaggle.com/datasets/pablotab/mnistpklgz)
-FOr the text data, I used the AG news corpus which can be found [here](https://github.com/mhjabreel/CharCnn_Keras/tree/master/data/ag_news_csv)
+
+For the text data, I used the AG news corpus which can be found [here](https://github.com/mhjabreel/CharCnn_Keras/tree/master/data/ag_news_csv)
